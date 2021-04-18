@@ -6,7 +6,7 @@
   <a href="https://github.com/arildojr7" target="_blank"><img src="http://hits.dwyl.com/arildojr7/arildojr7.svg" alt="Instagram"></a>
 </p>
 
-:computer:  Consultant Developer @ ThoughtWorks <br>
+:computer: Senior Consultant Developer @ ThoughtWorks <br>
 :house:  Brazilian, Based in Porto Alegre, RS <br>
 :guitar:  My hobby is playing the electrict guitar and raspberry/arduino<br>
 
