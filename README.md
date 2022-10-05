@@ -6,9 +6,9 @@
   <a href="https://github.com/arildojr7" target="_blank"><img src="http://hits.dwyl.com/arildojr7/arildojr7.svg" alt="Instagram"></a>
 </p>
 
-:computer: Senior Consultant Developer @ ThoughtWorks <br>
-:house:  Brazilian, Based in Porto Alegre, RS <br>
-:guitar:  My hobby is playing the electrict guitar and raspberry/arduino<br>
+:computer: Android engineer @ zalando<br>
+:house:  Brazilian, based in Berlin - Germany<br>
+:guitar:  My hobby is playing the guitar and raspberry/arduino<br>
 
 ### ⚒️ Tech Stack
 
