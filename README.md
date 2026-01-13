@@ -3,11 +3,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/arildoborgesjr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/arildoborgesjr/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://github.com/arildojr7" target="_blank"><img src="http://hits.dwyl.com/arildojr7/arildojr7.svg" alt="Instagram"></a>
+  <a href="https://github.com/arildojr7" target="_blank"><img src="http://hits.dwyl.com/arildojr7/arildojr7.svg" alt="github"></a>
 </p>
 
-:computer: Senior Android Engineer @ Zalando<br>
-:house:  Brazilian, based in Berlin - Germany<br>
+:computer: Software Engineer III @ ClassPass<br>
+:house:  Brazilian, currently based in Porto Alegre / RS<br>
 :guitar:  My hobby is playing guitar and raspberry/arduino<br>
 
 ### ⚒️ Tech Stack
